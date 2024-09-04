@@ -24,11 +24,11 @@
 I'm a passionate and dedicated Full Stack Developer with a strong foundation in front-end and back-end technologies. I recently graduated and am eager to bring my coding skills to the professional world. I've developed a solid understanding of web development through 
 hands-on projects and internships. I'm continuously learning and exploring new technologies to stay updated in this ever-evolving field.
 
-## OBJECTIVE:
+## OBJECTIVE
 I'm actively seeking a full-time opportunity to contribute to exciting projects, learn from experienced developers, and grow in a collaborative and challenging environment.
 
-## SKILLS:
-<h4>Front-end:</h4> 
+## SKILLS
+<h3>FRONT-END</h3> 
 <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -38,14 +38,14 @@ I'm actively seeking a full-time opportunity to contribute to exciting projects,
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 
 
-<h4>Back-end:</h4> 
+<h3>BACK-END</h3> 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 
-<h4>Other Tools:</h4> 
+<h3>OTHER TOOLS</h3> 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
