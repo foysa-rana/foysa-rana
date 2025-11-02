@@ -10,10 +10,10 @@
 <a href="mailto: foysalrana1212@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://foysal-rana.onrender.com/">
+<a href="https://foysal-rana.vercel.app/about">
 <img src="https://img.shields.io/badge/portfolio-475569?style=for-the-badge&logo=web_svg&logoColor=red" />
 </a>
-<a href="https://www.linkedin.com/in/foysal-rana-47a9932b1">
+<a href="https://www.linkedin.com/in/foysal-rana-950105337">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br>
